@@ -12,4 +12,4 @@ Hangar da Laranja Aviação Executiva em 2021
 
 Informações do programa
 
-O programa conta com um módulo de login (USUÁRIO: “angelina” e SENHA: “nota=10”) para manter sempre a segurança e a integridade das informações contidas. Dentro do app, é possível encontrar uma lista com todos os aviões disponíveis e realizar a compra de assentos, a depender das necessidades relacionadas. 
+O programa conta com um módulo de login para manter sempre a segurança e a integridade das informações contidas. Dentro do app, é possível encontrar uma lista com todos os aviões disponíveis e realizar a compra de assentos, a depender das necessidades relacionadas. 
